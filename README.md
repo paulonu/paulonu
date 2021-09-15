@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @paulonu
 - 👀 I’m interested in Product development and marketing.
-- 🌱 I’m currently building my startup products - superbi.co, twoogle.co & delivernow.to
+- 🌱 I’m currently building my startup products - https://usepostly.com & https://delivernow.com
 - 💞️ I’m looking for Pre-Seed, other collaborations & partnerships in growth and sales.
 - 📫 How to reach me - Twitter @paul_onu; Email @paul.onu@remotelab.co
 
